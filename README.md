@@ -14,4 +14,8 @@ Pada tampilan dashboard ini menampilkan data pesanan pelanggan, untuk menampilka
 3. Tampilan Tambah Pesanan </br>
 Pada halaman ini, terdapat form. pemesanan makanan dan data pelanggan. ketika for diisi dan di submit, data akan tersimpan di database dengan syntax </br>
 4. Tampilan Edit Pemesanan </br>
+pada halaman ini, syntax dan query digunakan untuk mencari data yang telah di edit berdasar id yang dikirim dalam parameter </br>
+value tag input dapat menampung seiap data yang didapatkan, setelah data di edit dan submit data tersebut akan berubah dengan syntax </br>
+5. Hapus Data Relawan </br>
+data diambil berdasar id yang di kirim pada parameter, lalu dihapus dengan syntax </br>
 
