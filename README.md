@@ -18,4 +18,4 @@ pada halaman ini, syntax dan query digunakan untuk mencari data yang telah di ed
 value tag input dapat menampung seiap data yang didapatkan, setelah data di edit dan submit data tersebut akan berubah dengan syntax </br>
 5. Hapus Data Relawan </br>
 data diambil berdasar id yang di kirim pada parameter, lalu dihapus dengan syntax </br>
-
+6. Mencetak data 
